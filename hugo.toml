@@ -1,4 +1,4 @@
-baseURL = 'https://github.danielsimpson.us/'
+baseURL = 'https://danielsimpson.github.io/'
 languageCode = 'en-us'
 title = 'GitHub Pages Hugo Site'
 [caches]
